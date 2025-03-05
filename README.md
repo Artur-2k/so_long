@@ -1,6 +1,15 @@
 # So Long – Functional & Simplified
 
+<figure>
+  <img src="screenshot.png" alt="screenshot">
+  <figcaption>Blue tiles - walls</figcaption>
+  <figcaption>White tiles - walkable space</figcaption>
+  <figcaption>Yellow tile - exit</figcaption>
+  <figcaption>Cyan tiles - collectables</figcaption>
+</figure>
+
 ## Overview
+
 
 This project was developed overnight to assist a colleague in understanding and implementing the So Long project under extreme time constraints. The primary focus was on delivering a functional implementation of the core mechanics, with creative aspects minimized to meet the deadline.
 
