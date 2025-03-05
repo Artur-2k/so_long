@@ -11,7 +11,7 @@
 # include <stdarg.h>
 # include <limits.h>
 
-#define HEIGHT 800
+#define HEIGHT 600
 #define WIDTH 600
 #define TSIZE 32
 
