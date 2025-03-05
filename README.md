@@ -2,10 +2,12 @@
 
 <figure>
   <img src="screenshot.png" alt="screenshot">
-  <figcaption>Blue tiles - walls</figcaption>
-  <figcaption>White tiles - walkable space</figcaption>
-  <figcaption>Yellow tile - exit</figcaption>
-  <figcaption>Cyan tiles - collectables</figcaption>
+  <figcaption>
+  Blue tiles - walls<br>
+  White tiles - walkable space<br>
+  Yellow tile - exit<br>
+  Cyan tiles - collectables
+  </figcaption>
 </figure>
 
 ## Overview
