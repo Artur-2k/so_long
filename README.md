@@ -1,7 +1,7 @@
 # So Long – Functional & Simplified
 
 <figure>
-  <img src="screenshot.png" alt="screenshot">
+  <img src="demo.gif" alt="demo">
   <figcaption>
   Blue tiles - walls<br>
   White tiles - walkable space<br>

@@ -13,7 +13,7 @@
 
 #define HEIGHT 600
 #define WIDTH 600
-#define TSIZE 32
+#define TSIZE 64
 
 typedef struct s_game
 {
